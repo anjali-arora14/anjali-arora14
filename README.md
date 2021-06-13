@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I play games and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anjaliarora148@gmail.com. I'll try to respond as soon as possible!\
-<!--📄 &nbsp;You can check my [Resume](https://github.com/ambikeshkumarsingh/ambikeshkumarsingh.github.io/blob/main/Ambikesh_Resume.pdf) for more details about work experience.-->
+📄 &nbsp;You can check my [Resume](https://anjali-arora14.github.io/) for more details about work experience.
 
 ### 🔭&nbsp;2021 Goals
 :newspaper: Would Like to publish paper on Deep Learning \
